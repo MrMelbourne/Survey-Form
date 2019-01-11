@@ -1,0 +1,54 @@
+#title {
+text-align: center; 
+color: Green;  
+}
+
+#body {
+display: block;
+margin: 8px;
+}
+
+
+#survey-form {
+background-color: #17569b;  
+margin: 0 auto;
+border-radius: 4px;
+width: 75%;
+max-width: 900px;
+padding: 10px;
+padding-top: 20px; 
+text-align: center;  
+}
+
+.rowTab {
+display: block;  
+text-align: center;  
+}
+
+.labels {
+display: inline-block;
+text-align: left;
+width: 40px;
+padding: 5px;
+vertical-align: top;
+margin-top: 10px;
+}
+
+#email-text {
+  display: inline-block;
+font-size: 20px;
+text-align: center;  
+margin-left: 70px;  
+}
+
+#input-field {
+  font-size: 20px;
+  display: inline-block;
+}
+
+.rightTab {
+vertical-align: middle; 
+  display: inline-block;
+text-align: left;
+width: 1g%;
+}
