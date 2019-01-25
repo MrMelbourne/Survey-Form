@@ -1,9 +1,11 @@
 #title {
 text-align: center; 
-color: Green;  
+color: #00693b; 
+font-size: 50px;  
 }
 
-#body {
+body {
+background: #c4c3d0;  
 display: block;
 margin: 8px;
 }
@@ -51,4 +53,19 @@ vertical-align: middle;
   display: inline-block;
 text-align: left;
 width: 1g%;
+}
+
+#number {
+height: 23px;  
+width: 250px;   
+}
+
+#name {
+height: 25px;  
+width: 250px;  
+}
+
+#comments {
+height: 48px;  
+width: 325px;  
 }
